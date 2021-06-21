@@ -11,11 +11,9 @@
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <strong>Open FunFacts.txt</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <strong>Click on the Edit icon on the top-right corner, inside the FunFacts.txt file.</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. <strong>Inside the text file add your own text, which must be enclosed by a pair of double quotations <code>" "</code> and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;each sentence must be separated by a comma <code>,</code></strong>.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. <strong>Inside the text file add your own text, which must be enclosed by a pair of double quotations <code>" "</code> and each sentence must be separated by a comma <code>,</code></strong>.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. <strong>After you're done adding text(s), please make sure to create a pull request, just by clicking on <code>Commit changes</code></strong>.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. <strong>Boom! You have now contributed to the repository. The changes will be pulled and added to the websites<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within 10-minutes of commit!</strong>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. <strong>Boom! You have now contributed to the repository. The changes will be pulled and added to the websites within 10-minutes of commit!</strong>.
 </p>
 
 <h4>Q. How will the texts look on the website?</h4>
