@@ -21,7 +21,7 @@
 <img src = "https://i.imgur.com/hXWeZBk.png" alt = "Preview"\>
 
 <h1 align="center">Cute Contributors!</h1>
-<img src="https://contrib.rocks/image?repo=Awish-Senpai/FunFacts" alt="CuteContributors!"/>
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Awish-Senpai/FunFacts)
 
 <h1 align="center"><a href="https://awish.codes/">My Website</a></h1>
 
