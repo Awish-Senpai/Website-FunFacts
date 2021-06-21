@@ -20,6 +20,9 @@
 <li><code>Here's a quick peak on how the texts look on the website!</code></li>
 <img src = "https://i.imgur.com/hXWeZBk.png" alt = "Preview"\>
 
+<h1 align="center">Cute Contributors!</h1>
+<img src="https://contrib.rocks/image?repo=Awish-Senpai/FunFacts" alt="Cute Contributors!"/>
+
 <h1 align="center"><a href="https://awish.codes/">My Website</a></h1>
 
 <h3 alight="center">Thank you very much I appreciate your contribution to this! The Facts get added to the website every 24 hours. Please remember not to provide any kind of harassing, racial, or sexual text into the Facts. They are made just for fun! Please don't ruin it :)</h3>
