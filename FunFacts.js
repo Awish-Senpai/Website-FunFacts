@@ -27,5 +27,6 @@ var facts = [
    'You wish?',
    '<i>Laughs</i>',
    '<i>Dies</i>',
-   'You didn\'t read the previous fact, right?'
+   'You didn\'t read the previous fact, right?',
+   'Saying "Awish" is copyrighted! You can only say "Aw<a href="https://dis.gd/threads">oo</a>sh"'
 ]
