@@ -7,7 +7,16 @@
 <p><li><code>I wanted so that, everyone can contribute and put some text in the Fun Facts that gets displayed on my website.</code></li></p>
 
 <h4>Q. How do I contribute?</h4>
-<p><li><code>There is a file named FunFacts.js which has a bunch of FunFacts pre-inserted by me. They are enclosed within <strong>2 square brackets []</strong> and the texts are enclosed within <strong>double quote (" ")</strong>. You have to add your text just by enclosing then within a pair of double quotes <strong>("Your Text")</strong>. Example: "Your text",</code></li><span style="color: red">[ Note: Do not forget to separate every text by a comma , ]</span></p>
+<p><li><code>There is a file named FunFacts.txt which has a bunch of FunFacts pre-inserted by me. Each text is closed within a pair of <strong>double quote (" ")</strong>. Please follow the steps below!</code></li></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <strong>Open FunFacts.txt</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <strong>Click on the Edit icon on the top-right corner, inside the FunFacts.txt file.</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. <strong>Inside the text file add your own text, which must be enclosed by a pair of double quotations <code>" "</code> and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;each sentence must be separated by a comma <code>,</code></strong>.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. <strong>After you're done adding text(s), please make sure to create a pull request, just by clicking on <code>Commit changes</code></strong>.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. <strong>Boom! You have now contributed to the repository. The changes will be pulled and added to the websites<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within 10-minutes of commit!</strong>.
+</p>
 
 <h4>Q. How will the texts look on the website?</h4>
 <li><code>Here's a quick peak on how the texts look on the website!</code></li>
