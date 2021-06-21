@@ -7,7 +7,7 @@
 <p><li><code>I wanted so that, everyone can contribute and put some text in the Fun Facts that gets displayed on my website.</code></li></p>
 
 <h4>Q. How do I contribute?</h4>
-<p><li><code>There is a file named FunFacts.txt which has a bunch of FunFacts pre-inserted by me. Each text is closed within a pair of <strong>double quote (" ")</strong>. Please follow the steps below!</code></li></p>
+<p><li><code>There is a file named FunFacts.txt which has a bunch of FunFacts pre-inserted by me. Each text is closed within a pair of <strong>double quotations (" ")</strong>. Please follow the steps below to contribute your texts too!</code></li></p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <strong>Open FunFacts.txt</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <strong>Click on the Edit icon on the top-right corner, inside the FunFacts.txt file.</strong><br>
