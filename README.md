@@ -25,7 +25,7 @@
 
 <h1 align="center">Cute Contributors!</h1>
 <a href="https://github.com/Awish-Senpai/FunFacts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Awish-Senpai/FunFacts" />
+  <img src="https://contrib.rocks/image?repo=Awish-Senpai/Website-FunFacts" />
 </a>
 
 <h1 align="center"><a href="https://awish.codes/">My Website</a></h1>
