@@ -35,4 +35,7 @@
 'game loading screens make me think about life',
 'if you think about it, are feet shoes?',
 '<a href="https://github.com/Nirlep5252" target="_blank" style="color: cyan;">Nirlep</a> has committed to <a href="https://github.com/Awish-Senpai/Website-FunFacts" target="_blank" style="color: yellow">this repository</a> too!',
-'<a href="https://github.com/denzven" target="_blank" style="color: cyan;">Denzven</a> has committed to <a href="https://github.com/Awish-Senpai/Website-FunFacts" target="_blank" style="color: yellow">this repository</a> too!'
+'<a href="https://github.com/denzven" target="_blank" style="color: cyan;">Denzven</a> has committed to <a href="https://github.com/Awish-Senpai/Website-FunFacts" target="_blank" style="color: yellow">this repository</a> too!',
+'Never gonna give you up, Never gonna let you down',
+'Baka!~',
+'Ya'll hella sus',
