@@ -1,5 +1,8 @@
 <h1 align="center">WEBSITE FUN FACTS!</h1>
 
+[![GitHub contributors](https://img.shields.io/github/contributors/Awish-Senpai/Website-FunFacts.svg)](https://GitHub.com/Awish-Senpai/Website-FunFacts/graphs/contributors/)
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Awish-Senpai/Website-FunFacts.svg)](https://GitHub.com/Awish-Senpai/Website-FunFacts/pull/)
+
 <h4>Q. What is this?</h4>
 <p><li><code>These are just Fun Facts that show up on my website's Preloader, meaning loading screen!</code></li></p>
 
