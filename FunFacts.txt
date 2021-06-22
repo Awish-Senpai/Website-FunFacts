@@ -20,6 +20,8 @@
 'Send help!',
 'Please just turn off your autocorrect',
 '<i>Runs</i>',
+'<a href="https://github.com/Awish-Senpai/Website-FunFacts" style="color: cyan;" target="_blank">Contribute to the repository now!</a>',
+'<a style="pointer-events: none;">omae wa mou shindeiru</a>',
 'Once upon a time...',
 'Hello darkness my old friend. I\'ve come to see you again.',
 'Pain',
@@ -31,4 +33,4 @@
 'certified Freak, coding 7 days a week!',
 'well.. awesomeness is on its way!',
 'game loading screens make me think about life',
-'if you think about it, are feet shoes?',
+'if you think about it, are feet shoes?'
