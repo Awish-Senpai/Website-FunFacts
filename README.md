@@ -1,4 +1,4 @@
-<h1 align="center">FUN FACTS!</h1>
+<h1 align="center">WEBSITE FUN FACTS!</h1>
 
 <h4>Q. What is this?</h4>
 <p><li><code>These are just Fun Facts that show up on my website's Preloader, meaning loading screen!</code></li></p>
