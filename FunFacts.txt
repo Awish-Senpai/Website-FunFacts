@@ -41,4 +41,10 @@
 'Ya'll hella sus',
 '<a href="https://github.com/Xanll" target="_blank" style="color: cyan;">Xanll</a> has committed to <a href="https://github.com/Awish-Senpai/Website-FunFacts" target="_blank" style="color: yellow">this repository</a> too!',
 'B U R N <i style="pointer-events: none;">evil laugh</i>',
-'<a style="pointer-events: none; background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);-webkit-background-clip: text;-webkit-text-fill-color: transparent; -webkit-animation: hue 0.5s infinite linear"><strong>Everything you see is rainbow!</strong></a>'
+'<a style="pointer-events: none; background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);-webkit-background-clip: text;-webkit-text-fill-color: transparent; -webkit-animation: hue 0.5s infinite linear"><strong>Everything you see is rainbow!</strong></a>',
+'I ate a baby.',
+'I love blue',
+'i have 8 kids',
+'I love coding',
+'This site is life',
+'I'm a puppy'
